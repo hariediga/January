@@ -34,4 +34,11 @@ static web image by using apache
 videos
 
 02/02/2021:-
+videos
+
+04/02/2021:-
 jenkins CICD
+
+05/02/2021:-
+create ec2(bastion,jenkins,tomcat)
+set the passwordless setup between 3ec2 instances  
