@@ -1,0 +1,37 @@
+01/22/2021:-
+
+Tomcat installation
+Github basic commands 
+
+
+01/23/2021:-
+
+POC By following the videos
+vpc
+subnets
+igw
+ngw
+route teble
+vpc peering
+rds
+
+01/25/2021:-
+jenkins first video
+
+26/01/2021:-
+Videos 
+
+27/01/2021:-
+videos
+
+28/01/2021:-
+EBS value
+
+29/01/2021:-
+static web image by using apache
+
+30/01/2021:-
+videos
+
+02/02/2021:-
+jenkins CICD
