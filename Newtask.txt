@@ -42,3 +42,7 @@ jenkins CICD
 05/02/2021:-
 create ec2(bastion,jenkins,tomcat)
 set the passwordless setup between 3ec2 instances  
+
+06/02/2021:-
+K8 architecture
+
