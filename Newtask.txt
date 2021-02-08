@@ -46,3 +46,9 @@ set the passwordless setup between 3ec2 instances
 06/02/2021:-
 K8 architecture
 
+08/02/2021:-
+write a shell script it convert to reverse number
+create a Ec2 and attach the iam role
+Download the eksctl and kubectl
+
+
